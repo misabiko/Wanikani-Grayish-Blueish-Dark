@@ -1,5 +1,5 @@
 @-moz-document domain("wanikani.com") {
-	/*TODO
+/*TODO
         Change all hex to rgb
         Clean the source
         Paint the arrow
@@ -53,7 +53,7 @@
 		text-shadow: 0 1px 0 rgb(57, 62, 78) !important;
 	}
 	.navbar-inner {
-		background-image: linear-gradient(to bottom, rgb(107, 112, 128), rgb(77, 82, 98)) !important;
+		background-image: linear-gradient(to bottom, rgb(82, 87, 103), rgb(77, 82, 98)) !important;
 		border-bottom-color: rgb(77, 82, 98) !important;
 	}
 	.navbar .nav>li>a {
